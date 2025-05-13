@@ -178,3 +178,6 @@ data/
 
 # DS Store
 .DS_Store
+
+# mlruns
+mlruns/
